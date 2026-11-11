@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("timeSpan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+387a92ba79737590e9836ee1daa583120b2a62b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("timeSpan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("timeSpan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
