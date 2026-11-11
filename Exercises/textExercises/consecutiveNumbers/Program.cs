@@ -21,7 +21,11 @@ namespace consecutiveCheck
                 var isConsecutive = true;
                 for (var i = 0; i < numbers.Length; i++)
                 {
-                    System.Console.WriteLine("Looping");
+                    if(numbers[i + 1] > numbers[i])
+                    {
+                        isConsecutive = true;
+                        System.Console.WriteLine("Consecutive");
+                    } 
                 }
             }
             else
