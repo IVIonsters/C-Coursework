@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("conditionalsMaximum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+387a92ba79737590e9836ee1daa583120b2a62b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0690ed1bc6bce4d27503731e9c3760c40f6cc0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("conditionalsMaximum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("conditionalsMaximum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
