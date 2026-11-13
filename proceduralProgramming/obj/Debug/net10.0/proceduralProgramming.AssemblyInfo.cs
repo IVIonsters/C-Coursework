@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("proceduralProgramming")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1c29c63587bb0c2478e15c4a1b483077400a7e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4af562836c85cb99dece293cb1ff3ebf9d80e653")]
 [assembly: System.Reflection.AssemblyProductAttribute("proceduralProgramming")]
 [assembly: System.Reflection.AssemblyTitleAttribute("proceduralProgramming")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
