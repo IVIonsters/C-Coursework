@@ -16,17 +16,23 @@ namespace prodV2
 
         numbers.Add(Convert.ToInt32(input));
       }
-      var uniques = new List<int>();
+
+      System.Console.WriteLine("Unique Numbers:");
+      foreach(var number in GetUniqueNumbers(numbers))
+      {
+        System.Console.WriteLine(number);
+      }
+    }
+
+    public static List<int> GetUniqueNumbers(List<int> numbers)
+    {
+            var uniques = new List<int>();
       foreach(var number in numbers)
       {
         if (!uniques.Contains(number))
         uniques.Add(number);
       }
-      System.Console.WriteLine("Unique Numbers:");
-      foreach(var number in uniques)
-      {
-        System.Console.WriteLine(number);
-      }
+      return uniques;
     }
   }
 }
