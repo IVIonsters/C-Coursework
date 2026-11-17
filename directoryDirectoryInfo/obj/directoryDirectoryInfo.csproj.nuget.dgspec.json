@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\directoryDirectoryInfo\\directoryDirectoryInfo.csproj": {}
+    "C:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\directoryDirectoryInfo\\directoryDirectoryInfo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\directoryDirectoryInfo\\directoryDirectoryInfo.csproj": {
+    "C:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\directoryDirectoryInfo\\directoryDirectoryInfo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\directoryDirectoryInfo\\directoryDirectoryInfo.csproj",
+        "projectUniqueName": "C:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\directoryDirectoryInfo\\directoryDirectoryInfo.csproj",
         "projectName": "directoryDirectoryInfo",
-        "projectPath": "c:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\directoryDirectoryInfo\\directoryDirectoryInfo.csproj",
+        "projectPath": "C:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\directoryDirectoryInfo\\directoryDirectoryInfo.csproj",
         "packagesPath": "C:\\Users\\Zacha\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\directoryDirectoryInfo\\obj\\",
+        "outputPath": "C:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\directoryDirectoryInfo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zacha\\AppData\\Roaming\\NuGet\\NuGet.Config"
