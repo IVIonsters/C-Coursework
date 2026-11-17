@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\filefileinfo\\filefileinfo.csproj": {}
+    "c:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\filefileinfo\\filefileinfo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\filefileinfo\\filefileinfo.csproj": {
+    "c:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\filefileinfo\\filefileinfo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\filefileinfo\\filefileinfo.csproj",
+        "projectUniqueName": "c:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\filefileinfo\\filefileinfo.csproj",
         "projectName": "filefileinfo",
-        "projectPath": "C:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\filefileinfo\\filefileinfo.csproj",
+        "projectPath": "c:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\filefileinfo\\filefileinfo.csproj",
         "packagesPath": "C:\\Users\\Zacha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\filefileinfo\\obj\\",
+        "outputPath": "c:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\filefileinfo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zacha\\AppData\\Roaming\\NuGet\\NuGet.Config"
