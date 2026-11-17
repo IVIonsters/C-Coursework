@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwitchCases")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4af562836c85cb99dece293cb1ff3ebf9d80e653")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ced1fa28b296e1ffc4fc2729ceaba8634c3a52c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwitchCases")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwitchCases")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
