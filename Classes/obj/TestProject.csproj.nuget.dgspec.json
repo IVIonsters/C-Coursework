@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\Classes\\TestProject.csproj": {}
+    "/Users/zachary/Developer/C#Course/Classes/TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\Classes\\TestProject.csproj": {
+    "/Users/zachary/Developer/C#Course/Classes/TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\Classes\\TestProject.csproj",
+        "projectUniqueName": "/Users/zachary/Developer/C#Course/Classes/TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\Classes\\TestProject.csproj",
-        "packagesPath": "C:\\Users\\Zacha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zacha\\Documents\\developer\\C-Coursework\\Classes\\obj\\",
+        "projectPath": "/Users/zachary/Developer/C#Course/Classes/TestProject.csproj",
+        "packagesPath": "/Users/zachary/.nuget/packages/",
+        "outputPath": "/Users/zachary/Developer/C#Course/Classes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Zacha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/zachary/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -39,11 +38,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -61,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
